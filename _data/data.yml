@@ -105,8 +105,8 @@ projects:
     assignments:
       - title: Image Caption Generation using LSTM Decoder
         link: https://github.com/sulabhkatiyar/show_tell
-        tagline: I have implemented Encoder-Decoder based Image Captioning method. This method is similar to the method used in the paper: 
-        [Show and tell: A neural image caption generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html).
+        tagline: I have implemented Encoder-Decoder based Image Captioning method. This method is similar to the method used in the paper: [Show and tell: 
+        A neural image caption generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html).
 
       - title: DevStudio
         link: "#"
