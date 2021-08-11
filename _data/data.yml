@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sulabh Katiyar
@@ -25,34 +25,26 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     interests:
-      - item: Climbing
+      - item: History
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Politics
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am a Research Student pursuing working towards my Ph.D degree on Image Caption Generation and the tentative date of thesis submission is 17th September, 2021. 
+      During my Ph.D I have studied Encoder-Decoder and Attention based Image Captioning approaches. 
+      Apart from Image Caption Generation, my research interests lie in Computer Vision and Natural Language Processing techniques
+      such as Machine Translation, Text Summarization, etc.
 
-      Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
