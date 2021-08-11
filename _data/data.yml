@@ -40,82 +40,50 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Research Student pursuing working towards my Ph.D degree on Image Caption Generation and the tentative date of thesis submission is 17th September, 2021. 
+      I am a Research Student pursuing working towards my Ph.D degree on Image Caption Generation. 
       During my Ph.D I have studied Encoder-Decoder and Attention based Image Captioning approaches. 
       Apart from Image Caption Generation, my research interests lie in Computer Vision and Natural Language Processing techniques
-      such as Machine Translation, Text Summarization, etc.
+      such as Machine Translation, Text Summarization, etc. 
+      # and the tentative date of thesis submission is 17th September, 2021.
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D in Computer Science and Engineering
+      Institute: National Institute of Technology, Silchar, India
+      time: 2015 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I have studied Image Caption Generation during my Ph.D with a focus on eficient utilization of semantic and visual information
+        for Caption Generation. I have performed comparative analysis of methods proposed in previous works and proposed methods to address
+        their limitations. Some of the works towards perusal of my Ph.D are listed below. This includes only published/accepted works.
+          - To analyse role of image representation obtained from various pre-trained Convolutional Neural Networks (CNN), I performed comparative
+          analysis of different CNN architectures to study their efficacy for Image Caption Generation task. 
+          - I have performed comparative analysis of Recurrent Neural Network based Decoder with the recently proposed Convolutional Decoder. 
+          I have observed that Convolutional Decoder does not model long term word relationships efficiently.
+          - I have proposed Encoder-Decoder and Visual Attention based Caption Generation methods using Contextual Word Embedding Representations for
+          enhanced semantic information representation and Perspective Transforms as Data Augmentation mechanism for better exploitation of Visual information.
+          In addition, I have used fine tuning of both CNN and Word embedding layers to obtain performance improvements.
 
-          - Bullet point
-          - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: M.Tech in Computer Science and Engineering
+      Institute: National Institute of Technology, Silchar, India
+      time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I have worked on Extractive Text Summarization during my M.Tech study. I have used lexical relationships among words to formulate improved method for 
+        identification of sentences from the text which can be used as summary.
+    - degree: B.Tech in Computer Science and Engineering
+      Institute: National Institute of Technology, Silchar, India
+      time: 2009 - 2013
 
-          - Bullet point
-          - Bullet point 
-
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+# experiences:
+#     - role: Lead Developer
+#       time: 2015 - Present
+#       company: Startup Hubs, San Francisco
+#       details: |
+ 
+#     - role: Senior Software Engineer
+#       time: 2014 - 2015
+#       company: Google, London
+#       details: |
 
 projects:
     title: Projects
