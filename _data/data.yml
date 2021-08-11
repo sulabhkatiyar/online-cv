@@ -72,9 +72,18 @@ education:
       details: |
         I have worked on Extractive Text Summarization during my M.Tech study. I have used lexical relationships among words to formulate improved method for 
         identification of sentences from the text which can be used as summary.
+        
+        
     - degree: B.Tech in Computer Science and Engineering
       Institute: National Institute of Technology, Silchar, India
       time: 2009 - 2013
+      details: |
+      During my time at NIT Silchar I learnt the basics of Computer Science and Engineering which have served as foundation over which I have continued my studies during M.Tech
+      and Ph.D. I also learned skills such as teamwork and working to tight deadlines. I thouroughly enjoyed my time during B.Tech and 
+      learnt a lot which has helped me later in life.
+      
+      I spent my free time participating in Quiz Competitions. I also organized a Quiz Competition during annual College Fest. In addition, I served as committee member in 
+      organizing teams of annual Alumni Meet and some technical competititions organized by Computer Science and Engineering Department. 
 
 # experiences:
 #     - role: Lead Developer
@@ -90,14 +99,14 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have undertaken some projects during my Ph.D course to study and understand Image Caption Generation. I have implemented various methods 
+      proposed in previous works using Pytorch library for Python programming language.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Image Caption Generation using LSTM Decoder
+        link: https://github.com/sulabhkatiyar/show_tell
+        tagline: I have implemented Encoder-Decoder based Image Captioning method. This method is similar to the method used in the paper: 
+        [Show and tell: A neural image caption generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html).
 
       - title: DevStudio
         link: "#"
